@@ -1,0 +1,15 @@
+C:\Users\stopc\Desktop\CompleteSelenium\exam_retail_store\ExamRetailStore\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\stopc\Desktop\CompleteSelenium\exam_retail_store\ExamRetailStore\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\stopc\Desktop\CompleteSelenium\exam_retail_store\ExamRetailStore\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\stopc\Desktop\CompleteSelenium\exam_retail_store\ExamRetailStore\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\stopc\Desktop\CompleteSelenium\exam_retail_store\ExamRetailStore\bin\Debug\ExamRetailStore.dll
+C:\Users\stopc\Desktop\CompleteSelenium\exam_retail_store\ExamRetailStore\bin\Debug\ExamRetailStore.pdb
+C:\Users\stopc\Desktop\CompleteSelenium\exam_retail_store\ExamRetailStore\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\stopc\Desktop\CompleteSelenium\exam_retail_store\ExamRetailStore\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\stopc\Desktop\CompleteSelenium\exam_retail_store\ExamRetailStore\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\stopc\Desktop\CompleteSelenium\exam_retail_store\ExamRetailStore\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\stopc\Desktop\CompleteSelenium\exam_retail_store\ExamRetailStore\obj\Debug\ExamRetailStore.csproj.AssemblyReference.cache
+C:\Users\stopc\Desktop\CompleteSelenium\exam_retail_store\ExamRetailStore\obj\Debug\ExamRetailStore.csproj.CoreCompileInputs.cache
+C:\Users\stopc\Desktop\CompleteSelenium\exam_retail_store\ExamRetailStore\obj\Debug\ExamRetailStore.csproj.CopyComplete
+C:\Users\stopc\Desktop\CompleteSelenium\exam_retail_store\ExamRetailStore\obj\Debug\ExamRetailStore.dll
+C:\Users\stopc\Desktop\CompleteSelenium\exam_retail_store\ExamRetailStore\obj\Debug\ExamRetailStore.pdb
