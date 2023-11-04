@@ -1,0 +1,15 @@
+﻿End of Section Exam–Resale Value
+
+This application will enable a vendor to see what earnings he can expect to make based on what percentage he marks up an item.
+
+Create a Class named ItemPricethat contains the wholesale item price as a Property.  
+Setup a constructor to accept this value.
+
+
+Unit Test Method
+
+In a tabular form, show the retail price of the item marked up at each percentage
+from 5% to 10% .
+
+This table should have column headings showing each percent markup and the new item price at that percentage.
+Use monetary formatting. Use a loop to create this display. 
